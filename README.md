@@ -1,4 +1,5 @@
 # Effectuez-une-prediction-de-revenus
+Il s'agit du projet 7 de la formation DATA Analyste de chez OpenClassRooms
 
 ## Scénario
 Vous êtes employé dans une banque, présente dans de nombreux pays à travers le monde. Celle-ci souhaite cibler de nouveaux clients potentiels, plus particulièrement les jeunes en âge d'ouvrir leur tout premier compte bancaire.
